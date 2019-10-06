@@ -19,4 +19,5 @@ Unless attributed otherwise, everything is licensed under the MIT License.
 
 ### References
 
-https://github.com/ditoec/openface2_ros/pull/2
+* https://github.com/ditoec/openface2_ros/pull/2
+  * [AtsushiSaito](https://github.com/AtsushiSaito/) told me this PR, thanks!
